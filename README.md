@@ -161,33 +161,6 @@ A curated list of resources for learning and mastering Data Science, Machine Lea
   - **Link:** [Book](Peter Ghavami - Big Data Management_ Data Governance Principles for Big Data Analytics-De Gruyter (2020).pdf)  
   - **Abstract/Summary:** This book provides comprehensive coverage on the principles and practices surrounding data governance for big data analytics. It presents key concepts, frameworks, and strategies that ensure the effective management of data, focusing on governance in big data ecosystems.  
 
----
-
-## 🎥 Videos  
-
-### Data Science  
-- **Title:**  
-  - **Speaker/Instructor:**  
-  - **Platform:** (YouTube, Coursera, etc.)  
-  - **Link:** [URL]  
-  - **Summary:**  
-
-### Machine Learning  
-- **Title:**  
-  - **Speaker/Instructor:**  
-  - **Platform:**  
-  - **Link:** [URL]  
-  - **Summary:**  
-
-### Data Engineering  
-- **Title:**  
-  - **Speaker/Instructor:**  
-  - **Platform:**  
-  - **Link:** [URL]  
-  - **Summary:**  
-
----
-
 ## 📄 Papers  
 
 ### Data Science  
