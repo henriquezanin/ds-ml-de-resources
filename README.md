@@ -87,16 +87,16 @@ A curated list of resources for learning and mastering Data Science, Machine Lea
 ### Data Science
 
 -   **Title:** - A Ciência da Estatística
--   **Link:** [URL] (https://www.youtube.com/@ACienciadaEstatistica/featured)
+    -   **Link:** [URL] (https://www.youtube.com/@ACienciadaEstatistica/featured)
 
 -   **Title:** - Caminhos dos Dados
--   **Link:** [URL] (https://www.youtube.com/@CaminhosdosDados)
+    -   **Link:** [URL] (https://www.youtube.com/@CaminhosdosDados)
 
 -   **Title:** - Prof. Francisco Rodrigues
--   **Link:** [URL] (https://www.youtube.com/@FranciscoRodrigues)
+    -   **Link:** [URL] (https://www.youtube.com/@FranciscoRodrigues)
 
 -   **Title:** - Steve Brunton
--   **Link:** [URL] (https://www.youtube.com/@Eigensteve)
+    -   **Link:** [URL] (https://www.youtube.com/@Eigensteve)
   
 ### Machine Learning
 
