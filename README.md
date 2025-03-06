@@ -4,75 +4,147 @@ A curated list of resources for learning and mastering Data Science, Machine Lea
 
 ---
 
-## 📚 Books  
+## 📚 Books
 
-### Data Science  
-- **Title:** An Introduction to Knowledge Graphs  
-  - **Author(s):** Serles, Umutcan, Fensel, Dieter  
-  - **Publication Year:** 2024  
-  - **Publisher:** Springer Nature Switzerland  
-  - **DOI:** [10.1007/978-3-031-45256-7](https://link.springer.com/10.1007/978-3-031-45256-7)  
-  - **ISBN:** 978-3-031-45255-0, 978-3-031-45256-7  
-  - **Language:** English
+### Data Science
 
-- **Title:** Foundations of Vector Retrieval  
-  - **Author(s):** Bruch, Sebastian  
-  - **Publication Year:** 2024  
-  - **Publisher:** Springer Nature Switzerland  
-  - **DOI:** [10.1007/978-3-031-55182-6](https://link.springer.com/10.1007/978-3-031-55182-6)  
-  - **ISBN:** 978-3-031-55181-9, 978-3-031-55182-6  
-  - **Language:** English
- 
-- **Title:** Pattern Classification  
-  - **Author(s):** Richard, O., Duda, Stork and David, G., Hart, Peter E.  
-  - **Publication Year:** 2001  
-  - **Publisher:** Wiley
- 
-- **Title:** Getting to Know Your Data  
-  - **Author(s):** Han, Jiawei, Kamber, Micheline, Pei, Jian  
-  - **Publication Year:** 2012  
-  - **Book Title:** Data Mining  
-  - **Publisher:** Elsevier  
-  - **DOI:** [10.1016/B978-0-12-381479-1.00002-2](https://linkinghub.elsevier.com/retrieve/pii/B9780123814791000022)  
-  - **Pages:** 39–82  
-  - **ISBN:** 978-0-12-381479-1  
-  - **Language:** English  
- 
-### Machine Learning  
-- **Title:** Machine Learning for Text  
-  - **Author(s):** Aggarwal, Charu C.  
-  - **Publication Year:** 2022  
-  - **Publisher:** Springer International Publishing  
-  - **DOI:** [10.1007/978-3-030-96623-2](https://link.springer.com/10.1007/978-3-030-96623-2)  
-  - **ISBN:** 978-3-030-96622-5, 978-3-030-96623-2  
-  - **Language:** English
+-   **Title:** An Introduction to Knowledge Graphs [cite: 2]
+    -   **Author(s):** Serles, Umutcan, Fensel, Dieter [cite: 2]
+    -   **Publication Year:** 2024 [cite: 2]
+    -   **Publisher:** Springer Nature Switzerland [cite: 2]
+    -   **DOI:** [10.1007/978-3-031-45256-7](https://link.springer.com/10.1007/978-3-031-45256-7) [cite: 2]
+    -   **ISBN:** 978-3-031-45255-0, 978-3-031-45256-7 [cite: 2]
+    -   **Language:** English [cite: 2]
+-   **Title:** Foundations of Vector Retrieval [cite: 2]
+    -   **Author(s):** Bruch, Sebastian [cite: 2]
+    -   **Publication Year:** 2024 [cite: 2]
+    -   **Publisher:** Springer Nature Switzerland [cite: 2]
+    -   **DOI:** [10.1007/978-3-031-55182-6](https://link.springer.com/10.1007/978-3-031-55182-6) [cite: 2]
+    -   **ISBN:** 978-3-031-55181-9, 978-3-031-55182-6 [cite: 2]
+    -   **Language:** English [cite: 3]
+-   **Title:** Pattern Classification [cite: 3]
+    -   **Author(s):** Richard, O., Duda, Stork and David, G., Hart, Peter E. [cite: 3]
+    -   **Publication Year:** 2001 [cite: 3]
+    -   **Publisher:** Wiley [cite: 3]
+-   **Title:** Getting to Know Your Data [cite: 3]
+    -   **Author(s):** Han, Jiawei, Kamber, Micheline, Pei, Jian [cite: 3]
+    -   **Publication Year:** 2012 [cite: 3]
+    -   **Book Title:** Data Mining [cite: 3]
+    -   **Publisher:** Elsevier [cite: 3]
+    -   **DOI:** [10.1016/B978-0-12-381479-1.00002-2](https://linkinghub.elsevier.com/retrieve/pii/B9780123814791000022) [cite: 3]
+    -   **Pages:** 39–82 [cite: 3]
+    -   **ISBN:** 978-0-12-381479-1 [cite: 3]
+    -   **Language:** English [cite: 3]
 
-- **Title:** Deep Learning  
-  - **Author(s):** Goodfellow, Ian; Bengio, Yoshua; Courville, Aaron  
-  - **Publication Year:** 2016  
-  - **Publisher:** The MIT Press  
-  - **ISBN:** 978-0-262-03561-3  
-  - **Series:** Adaptive Computation and Machine Learning  
-  - **Language:** English  
- 
- - **Title:** Out-of-Domain Semantics to the Rescue! Zero-Shot Hybrid Retrieval Models  
-  - **Author(s):** Chen, Tao; Zhang, Mingyang; Lu, Jing; Bendersky, Michael; Najork, Marc  
-  - **Editor(s):** Hagen, Matthias; Verberne, Suzan; Macdonald, Craig; Seifert, Christin; Balog, Krisztian; Nørvåg, Kjetil; Setty, Vinay  
-  - **Publication Year:** 2022  
-  - **Publisher:** Springer International Publishing  
-  - **ISBN:** 978-3-030-99735-9, 978-3-030-99736-6  
-  - **Book Title:** Advances in Information Retrieval  
-  - **DOI:** [10.1007/978-3-030-99736-6_7](https://link.springer.com/10.1007/978-3-030-99736-6_7)  
-  - **Pages:** 95--110  
-  - **Language:** English
+### Machine Learning
 
-- **Title:** Embeddings in Natural Language Processing: Theory and Advances in Vector Representations of Meaning  
-- **Author(s):** Pilehvar, Mohammad Taher; Camacho-Collados, Jose  
-- **Publication Year:** 2020  
-- **Publisher:** Morgan & Claypool Publishers
+-   **Title:** Machine Learning for Text [cite: 4]
+    -   **Author(s):** Aggarwal, Charu C. [cite: 4]
+    -   **Publication Year:** 2022 [cite: 4]
+    -   **Publisher:** Springer International Publishing [cite: 4]
+    -   **DOI:** [10.1007/978-3-030-96623-2](https://link.springer.com/10.1007/978-3-030-96623-2) [cite: 4]
+    -   **ISBN:** 978-3-030-96622-5, 978-3-030-96623-2 [cite: 4]
+    -   **Language:** English [cite: 4]
+-   **Title:** Deep Learning [cite: 4, 5]
+    -   **Author(s):** Goodfellow, Ian; Bengio, Yoshua; Courville, Aaron [cite: 4, 5]
+    -   **Publication Year:** 2016 [cite: 5]
+    -   **Publisher:** The MIT Press [cite: 5]
+    -   **ISBN:** 978-0-262-03561-3 [cite: 5]
+    -   **Series:** Adaptive Computation and Machine Learning [cite: 5]
+    -   **Language:** English [cite: 5]
+-   **Title:** Out-of-Domain Semantics to the Rescue! Zero-Shot Hybrid Retrieval Models [cite: 6, 7, 8]
+    -   **Author(s):** Chen, Tao; Zhang, Mingyang; Lu, Jing; Bendersky, Michael; Najork, Marc [cite: 6, 7]
+    -   **Editor(s):** Hagen, Matthias; Verberne, Suzan; Macdonald, Craig; Seifert, Christin; Balog, Krisztian; Nørvåg, Kjetil; Setty, Vinay [cite: 7, 8]
+    -   **Publication Year:** 2022 [cite: 8]
+    -   **Publisher:** Springer International Publishing [cite: 8]
+    -   **ISBN:** 978-3-030-99735-9, 978-3-030-99736-6 [cite: 8]
+    -   **Book Title:** Advances in Information Retrieval [cite: 8]
+    -   **DOI:** [10.1007/978-3-030-99736-6_7](https://link.springer.com/10.1007/978-3-030-99736-6_7) [cite: 8]
+    -   **Pages:** 95--110 [cite: 8]
+    -   **Language:** English [cite: 8]
+-   **Title:** Embeddings in Natural Language Processing: Theory and Advances in Vector Representations of Meaning [cite: 8, 9]
+    -   **Author(s):** Pilehvar, Mohammad Taher; Camacho-Collados, Jose [cite: 9]
+    -   **Publication Year:** 2020 [cite: 9]
+    -   **Publisher:** Morgan & Claypool Publishers [cite: 9]
 
+### Data Engineering
 
-### Data Engineering  
+-   **Title:** Apache Iceberg: The Definitive Guide: Data Lakehouse Functionality, Performance, and Scalability on the Data Lake [cite: 9, 10, 11]
+    -   **Author(s):** Shiran, Tomer; Hughes, Jason; Merced, Alex [cite: 10]
+    -   **Publication Year:** 2024 [cite: 10]
+    -   **Link:** [ISBN: 978-1-0981-4862-1](https://www.oreilly.com/library/view/apache-iceberg-the/9781098148621/) [cite: 10]
+    -   **Abstract/Summary:** This book offers a comprehensive guide to Apache Iceberg, an open-source data lakehouse framework, detailing its architecture, optimization strategies, and integration with various data engines like Apache Spark and Flink. [cite: 10, 11] It explores how Iceberg supports interactive, batch, machine learning, and streaming analytics, providing scalability and performance for modern data architectures. [cite: 11]
+-   **Title:** Big data management: data governance principles for big data analytics [cite: 12, 13, 14]
+    -   **Author(s):** Ghavami, Peter [cite: 12]
+    -   **Publication Year:** 2020 [cite: 12]
+    -   **Link:** [Book](Peter Ghavami - Big Data Management_ Data Governance Principles for Big Data Analytics-De Gruyter (2020).pdf) [cite: 12]
+    -   **Abstract/Summary:** This book provides comprehensive coverage on the principles and practices surrounding data governance for big data analytics. [cite: 12, 13] It presents key concepts, frameworks, and strategies that ensure the effective management of data, focusing on governance in big data ecosystems. [cite: 13, 14]
+
+---
+
+## 🎥 Videos
+
+### Data Science
+
+-   **Title:**
+-   **Speaker/Instructor:**
+-   **Platform:** (YouTube, Coursera, etc.)
+-   **Link:** [URL]
+-   **Summary:**
+
+### Machine Learning
+
+-   **Title:**
+-   **Speaker/Instructor:**
+-   **Platform:**
+-   **Link:** [URL]
+-   **Summary:**
+
+### Data Engineering
+
+-   **Title:**
+-   **Speaker/Instructor:**
+-   **Platform:**
+-   **Link:** [URL]
+-   **Summary:**
+
+---
+
+## 📄 Papers
+
+### Data Science
+
+-   **Title:** Representation Learning: A Review and New Perspectives [cite: 15]
+    -   **Author(s):** Bengio, Y., Courville, A., Vincent, P. [cite: 15]
+    -   **Journal:** IEEE Transactions on Pattern Analysis and Machine Intelligence [cite: 15]
+    -   **Volume:** 35 [cite: 15]
+    -   **Issue:** 8 [cite: 15]
+    -   **DOI:** [10.1109/TPAMI.2013.50](http://ieeexplore.ieee.org/document/6472238/) [cite: 15]
+    -   **Pages:** 1798--1828 [cite: 15]
+    -   **Language:** English [cite: 15]
+    -   **Abstract:** The paper reviews advancements in unsupervised feature learning, autoencoders, manifold learning, and deep networks. [cite: 15, 16]
+
+### Machine Learning
+
+-   **Title:** Efficient Query Processing for Scalable Web Search [cite: 16]
+    -   **Author(s):** Tonellotto, Nicola, Macdonald, Craig, Ounis, Iadh [cite: 16]
+    -   **Publication Year:** 2018 [cite: 16]
+    -   **Journal:** Foundations and Trends® in Information Retrieval [cite: 16]
+    -   **Volume:** 12 [cite: 16]
+    -   **Issue:** 4-5 [cite: 16]
+    -   **Pages:** 319–500 [cite: 16]
+    -   **DOI:** [10.1561/1500000057](http://www.nowpublishers.com/article/Details/INR-057) [cite: 16]
+    -   **Language:** English [cite: 16]
+-   **Title:** Machine Learning Operations (MLOps): Overview, Definition, and Architecture [cite: 16, 17, 18, 19, 20, 21, 22, 23]
+    -   **Author(s):** Kreuzberger, Dominik; Kühl, Niklas; Hirschl, Sebastian [cite: 17]
+    -   **Publication Year:** 2023 [cite: 17]
+    -   **Journal:** IEEE Access [cite: 17]
+    -   **Volume:** 11 [cite: 17]
+    -   **DOI:** [10.1109/ACCESS.2023.3262138](https://ieeexplore.ieee.org/document/10081336/) [cite: 17]
+    -   **Pages:** 31866--31879 [cite: 17]
+    -   **Language:** English [cite: 17]
+    -   **Abstract:** The final goal of all industrial machine learning (ML) projects is to develop ML products and rapidly bring them into production. [cite: 17, 18] However, it is highly challenging to automate and operationalize ML products and thus many ML endeavors fail to deliver on their expectations. [cite: 18, 19] The paradigm of Machine Learning Operations (MLOps) addresses this issue. [cite: 19, 20, 21, 22] MLOps includes several aspects, such as best practices, sets of concepts, and development culture. [cite: 20, 21, 22] However, MLOps is still a vague term and its consequences for researchers and professionals are ambiguous. [cite: 21, 22] This paper provides an aggregated overview of the necessary principles, components, roles, architecture, and workflows for MLOps and discusses the challenges and technologies for automating and operating ML products. [cite: 22, 23]
+    -   **URL:** [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10081336/) [cite: 23]
 
 - **Title:** Apache Iceberg: The Definitive Guide: Data Lakehouse Functionality, Performance, and Scalability on the Data Lake  
   - **Author(s):** Shiran, Tomer; Hughes, Jason; Merced, Alex  
