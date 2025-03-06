@@ -7,16 +7,70 @@ A curated list of resources for learning and mastering Data Science, Machine Lea
 ## 📚 Books  
 
 ### Data Science  
-- **Title:**  
-  - **Author(s):**  
-  - **Link:** [URL]  
-  - **Summary:**  
+- **Title:** An Introduction to Knowledge Graphs  
+  - **Author(s):** Serles, Umutcan, Fensel, Dieter  
+  - **Publication Year:** 2024  
+  - **Publisher:** Springer Nature Switzerland  
+  - **DOI:** [10.1007/978-3-031-45256-7](https://link.springer.com/10.1007/978-3-031-45256-7)  
+  - **ISBN:** 978-3-031-45255-0, 978-3-031-45256-7  
+  - **Language:** English
 
+- **Title:** Foundations of Vector Retrieval  
+  - **Author(s):** Bruch, Sebastian  
+  - **Publication Year:** 2024  
+  - **Publisher:** Springer Nature Switzerland  
+  - **DOI:** [10.1007/978-3-031-55182-6](https://link.springer.com/10.1007/978-3-031-55182-6)  
+  - **ISBN:** 978-3-031-55181-9, 978-3-031-55182-6  
+  - **Language:** English
+ 
+- **Title:** Pattern Classification  
+  - **Author(s):** Richard, O., Duda, Stork and David, G., Hart, Peter E.  
+  - **Publication Year:** 2001  
+  - **Publisher:** Wiley
+ 
+- **Title:** Getting to Know Your Data  
+  - **Author(s):** Han, Jiawei, Kamber, Micheline, Pei, Jian  
+  - **Publication Year:** 2012  
+  - **Book Title:** Data Mining  
+  - **Publisher:** Elsevier  
+  - **DOI:** [10.1016/B978-0-12-381479-1.00002-2](https://linkinghub.elsevier.com/retrieve/pii/B9780123814791000022)  
+  - **Pages:** 39–82  
+  - **ISBN:** 978-0-12-381479-1  
+  - **Language:** English  
+ 
 ### Machine Learning  
-- **Title:**  
-  - **Author(s):**  
-  - **Link:** [URL]  
-  - **Summary:**  
+- **Title:** Machine Learning for Text  
+  - **Author(s):** Aggarwal, Charu C.  
+  - **Publication Year:** 2022  
+  - **Publisher:** Springer International Publishing  
+  - **DOI:** [10.1007/978-3-030-96623-2](https://link.springer.com/10.1007/978-3-030-96623-2)  
+  - **ISBN:** 978-3-030-96622-5, 978-3-030-96623-2  
+  - **Language:** English
+
+- **Title:** Deep Learning  
+  - **Author(s):** Goodfellow, Ian; Bengio, Yoshua; Courville, Aaron  
+  - **Publication Year:** 2016  
+  - **Publisher:** The MIT Press  
+  - **ISBN:** 978-0-262-03561-3  
+  - **Series:** Adaptive Computation and Machine Learning  
+  - **Language:** English  
+ 
+ - **Title:** Out-of-Domain Semantics to the Rescue! Zero-Shot Hybrid Retrieval Models  
+  - **Author(s):** Chen, Tao; Zhang, Mingyang; Lu, Jing; Bendersky, Michael; Najork, Marc  
+  - **Editor(s):** Hagen, Matthias; Verberne, Suzan; Macdonald, Craig; Seifert, Christin; Balog, Krisztian; Nørvåg, Kjetil; Setty, Vinay  
+  - **Publication Year:** 2022  
+  - **Publisher:** Springer International Publishing  
+  - **ISBN:** 978-3-030-99735-9, 978-3-030-99736-6  
+  - **Book Title:** Advances in Information Retrieval  
+  - **DOI:** [10.1007/978-3-030-99736-6_7](https://link.springer.com/10.1007/978-3-030-99736-6_7)  
+  - **Pages:** 95--110  
+  - **Language:** English
+
+- **Title:** Embeddings in Natural Language Processing: Theory and Advances in Vector Representations of Meaning  
+- **Author(s):** Pilehvar, Mohammad Taher; Camacho-Collados, Jose  
+- **Publication Year:** 2020  
+- **Publisher:** Morgan & Claypool Publishers
+
 
 ### Data Engineering  
 
@@ -62,18 +116,40 @@ A curated list of resources for learning and mastering Data Science, Machine Lea
 ## 📄 Papers  
 
 ### Data Science  
-- **Title:**  
-  - **Author(s):**  
-  - **Publication Year:**  
-  - **Link:** [DOI or URL]  
-  - **Abstract/Summary:**  
+- **Title:** Representation Learning: A Review and New Perspectives  
+  - **Author(s):** Bengio, Y., Courville, A., Vincent, P.  
+  - **Journal:** IEEE Transactions on Pattern Analysis and Machine Intelligence  
+  - **Volume:** 35  
+  - **Issue:** 8  
+  - **DOI:** [10.1109/TPAMI.2013.50](http://ieeexplore.ieee.org/document/6472238/)  
+  - **Pages:** 1798--1828  
+  - **Language:** English  
+  - **Abstract:** The paper reviews advancements in unsupervised feature learning, autoencoders, manifold learning, and deep networks.
+
 
 ### Machine Learning  
-- **Title:**  
-  - **Author(s):**  
-  - **Publication Year:**  
-  - **Link:** [DOI or URL]  
-  - **Abstract/Summary:**  
+- **Title:** Efficient Query Processing for Scalable Web Search  
+  - **Author(s):** Tonellotto, Nicola, Macdonald, Craig, Ounis, Iadh  
+  - **Publication Year:** 2018  
+  - **Journal:** Foundations and Trends® in Information Retrieval  
+  - **Volume:** 12  
+  - **Issue:** 4-5  
+  - **Pages:** 319–500  
+  - **DOI:** [10.1561/1500000057](http://www.nowpublishers.com/article/Details/INR-057)  
+  - **Language:** English
+
+- **Title:** Machine Learning Operations (MLOps): Overview, Definition, and Architecture  
+- **Author(s):** Kreuzberger, Dominik; Kühl, Niklas; Hirschl, Sebastian  
+- **Publication Year:** 2023  
+- **Journal:** IEEE Access  
+- **Volume:** 11  
+- **DOI:** [10.1109/ACCESS.2023.3262138](https://ieeexplore.ieee.org/document/10081336/)  
+- **Pages:** 31866--31879  
+- **Language:** English  
+- **Abstract:** The final goal of all industrial machine learning (ML) projects is to develop ML products and rapidly bring them into production. However, it is highly challenging to automate and operationalize ML products and thus many ML endeavors fail to deliver on their expectations. The paradigm of Machine Learning Operations (MLOps) addresses this issue. MLOps includes several aspects, such as best practices, sets of concepts, and development culture. However, MLOps is still a vague term and its consequences for researchers and professionals are ambiguous. This paper provides an aggregated overview of the necessary principles, components, roles, architecture, and workflows for MLOps and discusses the challenges and technologies for automating and operating ML products.  
+- **URL:** [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10081336/)
+
+
 
 ### Data Engineering  
 
@@ -164,5 +240,24 @@ A curated list of resources for learning and mastering Data Science, Machine Lea
   - **Author(s):** Barry, Mariam and Montiel, Jacob and Bifet, Albert et al.  
   - **Publication Year:** 2023  
   - **Link:** [DOI](https://ieeexplore.ieee.org/document/10184778/)  
-  - **Abstract/Summary:** This paper addresses the challenges of continuously training machine learning models on evolving streaming data. The authors present a system for deploying online and adaptive models in real-time applications such as cyber-security and anomaly detection. The architecture uses open-source tools like Kafka and River for scaling online learning methods, ensuring efficient model deployment and monitoring. The experiments, conducted on malicious URL detection, show how online learning outperforms traditional batch learning in both time and space complexity.  
+  - **Abstract/Summary:** This paper addresses the challenges of continuously training machine learning models on evolving streaming data. The authors present a system for deploying online and adaptive models in real-time applications such as cyber-security and anomaly detection. The architecture uses open-source tools like Kafka and River for scaling online learning methods, ensuring efficient model deployment and monitoring. The experiments, conducted on malicious URL detection, show how online learning outperforms traditional batch learning in both time and space complexity.
+ 
+- **Title:** Survey of Vector Database Management Systems  
+  - **Author(s):** Pan, James Jie, Wang, Jianguo, Li, Guoliang  
+  - **Publication Year:** 2023  
+  - **DOI:** [10.48550/arXiv.2310.14021](http://arxiv.org/abs/2310.14021)  
+  - **Publisher:** arXiv  
+  - **Keywords:** Computer Science - Databases  
+  - **Language:** English  
+  - **Abstract:** This paper reviews new approaches to query processing, storage and indexing, and query optimization in vector database management systems (VDBMSs), particularly driven by applications like large language models.
+
+- **Title:** A robust method based on locality sensitive hashing for K-nearest neighbors searching  
+  - **Author(s):** Cheng, Dongdong; Huang, Jinlong; Zhang, Sulan; Wu, Quanwang  
+  - **Publication Year:** 2024  
+  - **Journal:** Wireless Networks  
+  - **Volume:** 30  
+  - **Issue:** 5  
+  - **DOI:** [10.1007/s11276-022-02927-9](https://link.springer.com/10.1007/s11276-022-02927-9)  
+  - **Pages:** 4195--4208  
+  - **Language:** English  
 ---
