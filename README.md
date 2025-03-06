@@ -109,7 +109,7 @@ A curated list of resources for learning and mastering Data Science, Machine Lea
 ### Data Engineering
 
 -   **Title:** - CMU Database Group
--   **Link:** [URL] (https://www.youtube.com/@CMUDatabaseGroup)
+    -   **Link:** [URL] (https://www.youtube.com/@CMUDatabaseGroup)
 
 ---
 
