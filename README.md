@@ -211,15 +211,15 @@ A curated list of resources for learning and mastering Data Science, Machine Lea
   - **Language:** English
 
 - **Title:** Machine Learning Operations (MLOps): Overview, Definition, and Architecture  
-- **Author(s):** Kreuzberger, Dominik; Kühl, Niklas; Hirschl, Sebastian  
-- **Publication Year:** 2023  
-- **Journal:** IEEE Access  
-- **Volume:** 11  
-- **DOI:** [10.1109/ACCESS.2023.3262138](https://ieeexplore.ieee.org/document/10081336/)  
-- **Pages:** 31866--31879  
-- **Language:** English  
-- **Abstract:** The final goal of all industrial machine learning (ML) projects is to develop ML products and rapidly bring them into production. However, it is highly challenging to automate and operationalize ML products and thus many ML endeavors fail to deliver on their expectations. The paradigm of Machine Learning Operations (MLOps) addresses this issue. MLOps includes several aspects, such as best practices, sets of concepts, and development culture. However, MLOps is still a vague term and its consequences for researchers and professionals are ambiguous. This paper provides an aggregated overview of the necessary principles, components, roles, architecture, and workflows for MLOps and discusses the challenges and technologies for automating and operating ML products.  
-- **URL:** [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10081336/)
+    - **Author(s):** Kreuzberger, Dominik; Kühl, Niklas; Hirschl, Sebastian  
+    - **Publication Year:** 2023  
+    - **Journal:** IEEE Access  
+    - **Volume:** 11  
+    - **DOI:** [10.1109/ACCESS.2023.3262138](https://ieeexplore.ieee.org/document/10081336/)  
+    - **Pages:** 31866--31879  
+    - **Language:** English  
+    - **Abstract:** The final goal of all industrial machine learning (ML) projects is to develop ML products and rapidly bring them into production. However, it is highly challenging to automate and operationalize ML products and thus many ML endeavors fail to deliver on their expectations. The paradigm of Machine Learning Operations (MLOps) addresses this issue. MLOps includes several aspects, such as best practices, sets of concepts, and development culture. However, MLOps is still a vague term and its consequences for researchers and professionals are ambiguous. This paper provides an aggregated overview of the necessary principles, components, roles, architecture, and workflows for MLOps and discusses the challenges and technologies for automating and operating ML products.  
+    - **URL:** [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10081336/)
 
 
 
